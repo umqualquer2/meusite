@@ -1,0 +1,22 @@
+button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px 8px;
+    width: 1100px;
+    height: 200px;
+    font-size: 30px;
+    transition: background 1s;
+    border: 3px solid white;
+    background-color: black;
+    cursor: pointer;
+    color: white
+  
+
+}
+
+button:hover{
+
+background-color: rgb(63, 61, 63);
+
+}
